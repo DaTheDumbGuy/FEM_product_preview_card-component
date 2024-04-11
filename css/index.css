@@ -101,7 +101,9 @@ main{
     font-weight: bold;
     font-family: "Montserrat", sans-serif;
 }
-
+.product-card .product-card__info .product-card__add-to-cart:active{
+    background:hsl(158, 36%, 17%);
+}
 /* media queries */
 @media (min-width:1024px) {
     main{
