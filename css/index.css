@@ -105,7 +105,7 @@ main{
     background:hsl(158, 36%, 17%);
 }
 /* media queries */
-@media (min-width:1024px) {
+@media (min-width:768px) {
     main{
         width:80%;
         margin: auto;
